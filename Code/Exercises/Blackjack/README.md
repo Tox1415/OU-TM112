@@ -5,9 +5,9 @@ Blackjack is a card game also known as Pontoon. The aim of the game is to score 
 
 ## Basic rules of the game.
 
-The game uses a standard deck of cards comprising 4 suits of 13 cards .
-The cards are each given a calue as follows
-- Aces can be wirth 1 or 11 points.
+The game uses a standard deck of cards comprising 4 suits of 13 cards.
+The cards are each given a calue as follows  
+- Aces can be worth 1 or 11 points.
 - Picture cards are always worth 10 points
 - All other cards are worth their face value.
 
