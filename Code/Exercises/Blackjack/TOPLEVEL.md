@@ -22,4 +22,17 @@ Each of the problems will be dealt with individually.
 
 ### Define a deal.
 
-We will use a dictionary for the card names 
+We will use a dictionary for the card names and each entry will be in the form. 
+
+Cardname : Score
+
+Use a variable to keep score of the deal.
+
+Heres the logic.
+
+>> Define a deal. 
+>>> Set card to a random card from the card names dictionary. 
+>>> Set the return value score to the value assiciated with the card selected. 
+>>> Remove the item from the card names dictionary. 
+>>> Return the score. 
+>>> Set the return value score to the value assiciated with the card selected
