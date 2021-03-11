@@ -15,3 +15,11 @@ I think there are 4 basic things we need to do. Deal the cards, player plays, de
 >> Define the actions for the dealers hand  
 
 There will be other steps to look at which will form the main loop of the program.
+
+## Next levels of decomposition
+
+Each of the problems will be dealt with individually.
+
+### Define a deal.
+
+We will use a dictionary for the card names 
