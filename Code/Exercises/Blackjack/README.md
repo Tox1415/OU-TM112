@@ -10,12 +10,27 @@ The cards are each given a calue as follows
 - Aces can be wirth 1 or 11 points.
 - Picture cards are always worth 10 points
 - All other cards are worth their face value.
+
 Each player is dealt 2 cards to begin with.
+
 The dealer is also dealt 2 cards.
+
 Each player then begins playing their turn. They have 2 options.
+
 - Twist. This means take another card from the dealer.
 - Stick. This means use the cards in the hand as the final score.
+
 Once all players have played their turn, the dealer plays their turn.
 
 ## Winning and losing.
 
+The winner is the player with the highest score over 16 but under 21.
+
+In a tie between the player and the dealer, the dealer wins.
+
+## Stretch goals.
+
+Once the code is completed. Look at including the following additional features
+
+- Five card tricks. Collect five cards from the dealer without going over 21.
+- Multiple players.
